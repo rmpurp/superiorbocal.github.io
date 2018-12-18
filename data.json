@@ -1,5 +1,5 @@
 {
-    ""postfix": "tasks",
+    "postfix": "tasks",
     "color": "blue",
     "data": {
         "value": 5
